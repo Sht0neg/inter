@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inter", "inter\inter.csproj", "{370D8B30-2DA6-4004-96C3-69084446D9A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inter", "inter\inter.csproj", "{370D8B30-2DA6-4004-96C3-69084446D9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzLink", "DzLink\DzLink.csproj", "{6CE4E6EC-6CB5-46F0-9EB8-1B28A8E1CE17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{370D8B30-2DA6-4004-96C3-69084446D9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{370D8B30-2DA6-4004-96C3-69084446D9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370D8B30-2DA6-4004-96C3-69084446D9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE4E6EC-6CB5-46F0-9EB8-1B28A8E1CE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE4E6EC-6CB5-46F0-9EB8-1B28A8E1CE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE4E6EC-6CB5-46F0-9EB8-1B28A8E1CE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE4E6EC-6CB5-46F0-9EB8-1B28A8E1CE17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
