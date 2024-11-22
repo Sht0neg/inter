@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzLink", "DzLink\DzLink.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegetablesBD", "VegetablesBD\VegetablesBD.csproj", "{DEE1DE8C-E22B-4A61-BE0E-02A62B4FDF18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{D49DEBD1-B2B3-475A-8C20-4531BB6044E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DEE1DE8C-E22B-4A61-BE0E-02A62B4FDF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE1DE8C-E22B-4A61-BE0E-02A62B4FDF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE1DE8C-E22B-4A61-BE0E-02A62B4FDF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49DEBD1-B2B3-475A-8C20-4531BB6044E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49DEBD1-B2B3-475A-8C20-4531BB6044E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49DEBD1-B2B3-475A-8C20-4531BB6044E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49DEBD1-B2B3-475A-8C20-4531BB6044E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
