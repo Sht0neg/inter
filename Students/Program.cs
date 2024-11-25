@@ -12,7 +12,7 @@
                 new Person("Леонид", new() { 4, 5, 3, 2, 3, 4, 3, 3, 3, 3}),
             };
 
-            var result = from r in people select $"Имя: {r.Name}, Средний балл: {Math.Ceiling(r.AverageMarks() / 0.1) * 0.1}";
+            var result = from r in people.OrderBy(marks => marks.AverageMarks()) select $"Имя: {r.Name}, Средний балл: {Math.Round(r.AverageMarks(), 2)}";
 
             foreach ( var r in result )
             {
