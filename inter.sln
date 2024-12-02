@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persons", "Persons\Persons.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persons.Tests", "Persons.Tests\Persons.Tests.csproj", "{5A4FD95C-DF95-4A78-B02E-5107F2DF2BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{50425E82-AB08-4199-9005-E433021676DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort", "Sort\Sort.csproj", "{50425E82-AB08-4199-9005-E433021676DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort.Tests", "Sort.Tests\Sort.Tests.csproj", "{98E3EB07-7D02-4E48-AF39-73023D49F5BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort.Tests", "Sort.Tests\Sort.Tests.csproj", "{98E3EB07-7D02-4E48-AF39-73023D49F5BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Country", "Country\Country.csproj", "{9C7621DF-5928-49DD-85B9-3C2993E4837D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{98E3EB07-7D02-4E48-AF39-73023D49F5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98E3EB07-7D02-4E48-AF39-73023D49F5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98E3EB07-7D02-4E48-AF39-73023D49F5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7621DF-5928-49DD-85B9-3C2993E4837D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7621DF-5928-49DD-85B9-3C2993E4837D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7621DF-5928-49DD-85B9-3C2993E4837D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7621DF-5928-49DD-85B9-3C2993E4837D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
